@@ -8,7 +8,7 @@ There are two ways to contribute to SumcoinUniversity: Directly via Github websi
 
 #### Directly via Github:
 
-1. Edit any of the [SumcoinUniversity files](https://github.com/sumcoin/SumcoinUniversity/tree/main/app/assets/docs);
+1. Edit any of the [SumcoinUniversity files](https://github.com/sumcoinlabs/SumcoinUniversity/tree/main);
 2. Submit a Pull Request with your changes.
 
 #### Developing locally:
@@ -27,6 +27,6 @@ Any changes in the project (both on docs and/or code) will be reflect automatica
 1. In your local project, run: `npm run deploy`.
 2. Access your changes at: https://sumcoin.github.io/SumcoinUniversity/
 
-**Note: sumcoin.github.io/SumcoinUniversity/ is a test version of the docs, and thus shouldn't be shared openly as the production documentation website.**
+**Note: sumcoin.github.io/SumcoinUniversity/ is a test version of the SumcoinUniversity, and thus shouldn't be shared openly as the production documentation website.**
 
 ####
