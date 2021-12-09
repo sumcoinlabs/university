@@ -8,7 +8,7 @@ There are two ways to contribute to SumcoinUniversity: Directly via Github websi
 
 #### Directly via Github:
 
-1. Edit any of the [SumcoinUniversity files](https://github.com/sumcoin/SumcoinUniversity/tree/master/app/assets/docs);
+1. Edit any of the [SumcoinUniversity files](https://github.com/sumcoin/SumcoinUniversity/tree/main/app/assets/docs);
 2. Submit a Pull Request with your changes.
 
 #### Developing locally:
