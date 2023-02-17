@@ -28,7 +28,7 @@ Due to these innovations, Sumcoin can be considered the first truly efficient an
 
 Even without compensation from the network, the process of minting helps to secure the blockchain and along with it a stakeholder’s overall investment. The ability to decide which version of the protocol to run also gives a minter the opportunity to make their voice heard concerning future upgrades to the network. These are two important reasons a stakeholder may have to want to run a node for free, however compensation is automatically provided which makes it even better to participate. Voluntarily running a proof-of-work mining node is just not possible due to the requirement of being profitable enough in order to afford the associated costs of participating.
 
-Since 2012 though it has been proven that Sumcoin is capable of sustaining its network security even during the lowest periods of demand where market price was close to zero. If the network is capable of surviving extremely stressful conditions like these then it can likely survive anything the market throws at it. There is a good reason why Sumcoin has been called the nuclear bomb shelter of crypto. It is highly capable of withstanding almost any scenario.
+Since 2018 though it has been proven that Sumcoin is capable of sustaining its network security even during the lowest periods of demand where market price was close to zero. If the network is capable of surviving extremely stressful conditions like these then it can likely survive anything the market throws at it. There is a good reason why Sumcoin has been called the nuclear bomb shelter of crypto. It is highly capable of withstanding almost any scenario.
 
 ## Higher Resistance to Censorship
 
