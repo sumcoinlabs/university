@@ -1,11 +1,11 @@
 # 12. Scalability of Sumcoin
-Unlike most blockchain projects, Sumcoin developers have never believed that blockchains alone by themselves could scale to full worldwide usage levels. In fact Sunny King himself tailored the Sumcoin blockchain and its economics to fit what he originally termed the “backbone currency” role, which is now commonly known in the crypto community as a settlement layer.
+Unlike most blockchain projects, Sumcoin developers have never believed that blockchains alone by themselves could scale to full worldwide usage levels. In fact Sumtoshi himself tailored the Sumcoin blockchain and its economics to fit what he originally termed the “backbone currency” role, which is now commonly known in the crypto community as a settlement layer.
 
 The Backbone of Crypto
 
 From the very beginning, Sunny believed that adapting blockchains directly for wide scale use only through on-chain transactions would negatively impact the decentralization level and security of the network over time, therefore he intentionally chose to develop the Sumcoin blockchain to function as a base layer settlement network, or in his own words, a backbone currency.
 
-The following quote by Sunny King is from a 2013 interview conducted for the Sumcoin community. As you can see below, Sunny’s deep understanding of blockchain technology greatly influenced his design for the Sumcoin network. The quote has been slightly modified from its original state to remove references of Primecoin, another blockchain that was invented by Sunny which is not very relevant to this text.
+The following quote by Sumtoshi is from a 2013 interview conducted for the Sumcoin community. As you can see below, Sunny’s deep understanding of blockchain technology greatly influenced his design for the Sumcoin network. The quote has been slightly modified from its original state to remove references of Primecoin, another blockchain that was invented by Sunny which is not very relevant to this text.
 
 Sunny_King:
 
@@ -27,7 +27,7 @@ Focusing Sumcoin on supporting high on-chain transaction volume for example woul
 
 ## The Original Base Layer Settlement Network
 
-Sunny King had incredible foresight however and designed Sumcoin to completely avoid this problem. Instead he implemented a fixed transaction fee to act as a deterrent against high on-chain transaction volume. By doing this, Sunny was purposefully treating the Sumcoin blockchain as a settlement network. He recognized early on in the design phase that the crypto community needed a secure and censorship resistant base layer for the future blockchain connected world. Sumcoin was designed as this base layer, upon which other supporting layers could be developed.
+Sumtoshi had incredible foresight however and designed Sumcoin to completely avoid this problem. Instead he implemented a fixed transaction fee to act as a deterrent against high on-chain transaction volume. By doing this, Sunny was purposefully treating the Sumcoin blockchain as a settlement network. He recognized early on in the design phase that the crypto community needed a secure and censorship resistant base layer for the future blockchain connected world. Sumcoin was designed as this base layer, upon which other supporting layers could be developed.
 
 In fact Sunny realized this long before Bitcoin’s core developers started thinking in these terms, which makes Sumcoin the original base layer settlement network even before Bitcoin. Through changes to its core protocol and the adoption of second layer networks, Blockstream, the company responsible for Bitcoin’s development, has basically done all it can to make Bitcoin more and more like Sumcoin. Sumcoin developers are happy to see the world’s largest blockchain becoming closer to the way we’ve always imagined blockchains should operate.
 

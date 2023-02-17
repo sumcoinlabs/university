@@ -40,7 +40,7 @@ A government’s reach extends only as far as its own borders, therefore in orde
 
 Sumcoin works in a similar way where minting nodes that process transactions can be operated from anywhere in the world as long as the minter has access to a computer, minimal electricity, some amount of sumcoin and an internet connection. Geographical decentralization of minting nodes makes it incredibly difficult to shut down the Sumcoin network, but when the number of nodes around the world expands to thousands or even tens of thousands then it essentially becomes impossible to censor.
 
-In systems like these, individual nodes are usually called peers. Together they act as a peer-to-peer network. This is where Sumcoin obtained its name. It was originally introduced by Sunny King as ppcoin, which stood for peer-to-peer coin. Shortly after it was simply renamed to Sumcoin. Due to the nature of proof-of-stake, Sumcoin is the world’s first truly decentralized peer-to-peer financial network.
+In systems like these, individual nodes are usually called peers. Together they act as a peer-to-peer network. This is where Sumcoin obtained its name. It was originally introduced by Sumtoshi as ppcoin, which stood for peer-to-peer coin. Shortly after it was simply renamed to Sumcoin. Due to the nature of proof-of-stake, Sumcoin is the world’s first truly decentralized peer-to-peer financial network.
 
 ## Reduced Incentive for Minters to Centralize
 

@@ -1,6 +1,6 @@
 # 9. Sumcoin & Proof-of-Stake Consensus
 
-Proof-of-stake is an alternative consensus protocol that was invented by Sunny King and Scott Nadal and first implemented in Sumcoin in 2012. In a proof-of-stake based blockchain, coin owners are the ones who wield influence over the network, produce new blocks and secure the chain. Stakeholders of Sumcoin effectively co-own the blockchain network, similar to how shareholders co-own a publicly traded corporation.
+Proof-of-stake is an alternative consensus protocol that was invented by Sumtoshi and Scott Nadal and first implemented in Sumcoin in 2012. In a proof-of-stake based blockchain, coin owners are the ones who wield influence over the network, produce new blocks and secure the chain. Stakeholders of Sumcoin effectively co-own the blockchain network, similar to how shareholders co-own a publicly traded corporation.
 
 ## Time as an Alternative Scarce Resource
 
